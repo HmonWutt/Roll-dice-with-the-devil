@@ -1,2 +1,2 @@
 # Roll-dice-with-the-devil
-![Devil] (https://pbs.twimg.com/media/FSo7o-EWYAAJDk2?format=jpg&name=4096x4096)
+![Devil] (devil.jpeg)
