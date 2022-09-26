@@ -4,4 +4,4 @@
 ### Hi Welcome! Here is a probability simulation I made. 
 
 ### Would you place your bet on **Spitz** or **the devil**? :bomb: 
-### *Run the simulation to find out your odds!* :sunglasses:
+### *Run the "devil.py" simulation to find out your odds!* :sunglasses:
