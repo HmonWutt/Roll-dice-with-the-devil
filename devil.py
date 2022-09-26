@@ -3,10 +3,6 @@ import numpy as np
 from matplotlib import colors
 from matplotlib.ticker import PercentFormatter
 import random
-from PIL import Image
-import requests
-
-Image.open(requests.get(https://twitter.com/black_swan_man/status/1525097236564254722/photo/1, stream=True).raw)
 
 money_human = int(input("How much money should Spitz start out with?"))
 class Dice:
